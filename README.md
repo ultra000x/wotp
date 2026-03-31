@@ -48,6 +48,6 @@ This tool is provided for educational and personal use only. ultraX is not respo
 ##
 
 ```python
-print("untra X)))")
+print("ultra X)))")
 print("Goodluck")
 ```
