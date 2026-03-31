@@ -1,4 +1,4 @@
-# wotp
+# WHATSAPP OTP
 WhatsApp OTP acquisition engine for Termux. Fast and reliable number renting + OTP retrieval tool.
 
 <h1><b>WOTP - WhatsApp OTP Engine</b></h1>
@@ -17,6 +17,7 @@ pip install requests colorama qrcode pillow
 rm -rf wotp
 git clone --depth=1 https://github.com/ultra000x/wotp.git
 cd wotp
+git pull
 python run.py
 ```
 
@@ -25,6 +26,7 @@ python run.py
 ### Features
 - Fast scanning for the cheapest available numbers
 - Multi-network crypto top-up support (USDT & USDC on Polygon, Solana, TON, Arbitrum, BSC)
+- Auto clipboard for number, otp, and wallet address 
 - Automatic resecure funds (cancels pending numbers on crash or network issues)
 - QR code generation for easy wallet top-up
 - Session balance tracking and detailed spending report
@@ -46,6 +48,6 @@ This tool is provided for educational and personal use only. ultraX is not respo
 ##
 
 ```python
-print("Goodluck!")
-```
+print("untra X)))")
+print("Goodluck")
 ```
