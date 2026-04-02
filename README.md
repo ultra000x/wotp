@@ -33,7 +33,7 @@ python run.py
 
 ### Requirements
 - Termux (fdroid version recommended)
-- Termux API
+- Termux-API
 - Python 3
   
 ### Privacy & Data Security
