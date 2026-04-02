@@ -35,7 +35,16 @@ python run.py
 - Termux (fdroid version recommended)
 - Termux API
 - Python 3
+  
+### Privacy & Data Security
+- No logs, phone numbers, or OTPs are collected or transmitted by this tool.
+- The script runs entirely on your device. No data is shared with the developer or any third party.
+- We do not track usage, store any personal information, or send telemetry.
 
+**Your privacy is 100% protected.**  
+This tool only communicates with the providers directly when you explicitly request a number or top-up.
+
+  
 ### Notes
 - Prices and availability can change at any time depending on the provider.
 - Always send funds to the correct network when topping up (wrong network = funds lost).
