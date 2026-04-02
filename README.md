@@ -1,10 +1,10 @@
 # WHATSAPP OTP
-WhatsApp OTP acquisition engine for Termux. Fast and reliable number renting + OTP retrieval tool.
+WhatsApp OTP acquisition engine for Termux. Fast and reliable number renting + OTP retrieval tool by ultraX.
 
 <h1><b>WOTP - WhatsApp OTP Engine</b></h1>
 
 ### Description
-**wotp** is a lightweight and fast Python script for Termux designed to obtain WhatsApp numbers and receive OTPs quickly and easy.
+**wotp** is a lightweight and fast Python script for Termux designed to obtain WhatsApp numbers and receive OTPs fast and easy.
 
 ##
 
