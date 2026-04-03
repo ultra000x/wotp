@@ -1,0 +1,203 @@
+ID: 31    | Name: South Africa
+ID: 22    | Name: India
+ID: 66    | Name: Pakistan
+ID: 60    | Name: Bangladesh
+ID: 147   | Name: Zambia
+ID: 138   | Name: Namibia
+ID: 79    | Name: Papua new gvineya
+ID: 58    | Name: Algeria
+ID: 71    | Name: Ethiopia
+ID: 80    | Name: Mozambique
+ID: 76    | Name: Angola
+ID: 1     | Name: Ukraine
+ID: 21    | Name: Egypt
+ID: 73    | Name: Brazil
+ID: 26    | Name: Haiti
+ID: 57    | Name: Iran
+ID: 65    | Name: Peru 
+ID: 10    | Name: Viet nam
+ID: 96    | Name: Zimbabwe
+ID: 81    | Name: Nepal
+ID: 40    | Name: Uzbekistan
+ID: 19    | Name: Nigeria
+ID: 106   | Name: Swaziland
+ID: 18    | Name: Congo (Dem. Republic)
+ID: 78    | Name: France
+ID: 123   | Name: Botswana
+ID: 0     | Name: Russian Federation
+ID: 54    | Name: Mexico
+ID: 9     | Name: Tanzania
+ID: 64    | Name: Sri Lanka
+ID: 88    | Name: Honduras
+ID: 39    | Name: Argentinas
+ID: 5     | Name: Myanmar
+ID: 89    | Name: Tunisia
+ID: 91    | Name: Timor-Leste
+ID: 136   | Name: Lesotho
+ID: 105   | Name: Ecuador
+ID: 101   | Name: El Salvador
+ID: 37    | Name: Morocco
+ID: 75    | Name: Uganda
+ID: 137   | Name: Malawi
+ID: 38    | Name: Ghana
+ID: 8     | Name: Kenya
+ID: 112   | Name: Panama
+ID: 103   | Name: Jamaica
+ID: 70    | Name: Venezuela
+ID: 2     | Name: Kazakhstan
+ID: 33    | Name: Colombia
+ID: 87    | Name: Paraguay
+ID: 62    | Name: Turkey
+ID: 11    | Name: Kyrgyzstan
+ID: 116   | Name: Jordan
+ID: 41    | Name: Cameroon
+ID: 13    | Name: Israel
+ID: 27    | Name: Cote d`Ivoire Ivory Coast
+ID: 51    | Name: Belarus
+ID: 83    | Name: Bulgaria
+ID: 102   | Name: Libya
+ID: 157   | Name: Mauritius
+ID: 161   | Name: Turkmenistan
+ID: 35    | Name: Azerbaijan
+ID: 69    | Name: Mali
+ID: 140   | Name: Rwanda
+ID: 154   | Name: Gabon
+ID: 1010  | Name: Sudan
+ID: 56    | Name: Spain
+ID: 90    | Name: Nicaragua
+ID: 85    | Name: Moldova, Republic of
+ID: 187   | Name: United States
+ID: 53    | Name: Saudi Arabia
+ID: 52    | Name: Thailand
+ID: 120   | Name: Benin
+ID: 93    | Name: Costa Rica
+ID: 152   | Name: Burkina Faso
+ID: 111   | Name: Qatar
+ID: 82    | Name: Belgium
+ID: 16    | Name: United Kingdom
+ID: 146   | Name: Reunion
+ID: 107   | Name: Oman
+ID: 150   | Name: Congo
+ID: 30    | Name: Yemen
+ID: 156   | Name: Uruguay
+ID: 47    | Name: Iraq
+ID: 61    | Name: Senegal
+ID: 43    | Name: Germany
+ID: 25    | Name: Lao People`s
+ID: 15    | Name: Poland
+ID: 99    | Name: Togo
+ID: 139   | Name: Niger
+ID: 1333  | Name: Syrian Arab Republic
+ID: 84    | Name: Hungary
+ID: 158   | Name: Bhutan
+ID: 119   | Name: Burundi
+ID: 7     | Name: Malaysia
+ID: 48    | Name: Netherlands
+ID: 167   | Name: Equatorial Guinea
+ID: 95    | Name: United Arab Emirates
+ID: 104   | Name: Trinidad and Tobago
+ID: 24    | Name: Cambodia
+ID: 177   | Name: South Sudan
+ID: 114   | Name: Mauritania
+ID: 4     | Name: Philippines
+ID: 3     | Name: China
+ID: 100   | Name: Kuwait
+ID: 130   | Name: Guinea-Bissau
+ID: 159   | Name: Maldives
+ID: 117   | Name: Portugal
+ID: 108   | Name: Bosnia and Herzegovina
+ID: 149   | Name: Somalia
+ID: 118   | Name: Barbados
+ID: 1011  | Name: Martinique
+ID: 109   | Name: Dominican Republic
+ID: 28    | Name: Gambia
+ID: 74    | Name: Afghanistan
+ID: 148   | Name: Armenia
+ID:       | Name: Faroe Islands
+ID: 131   | Name: Guyana
+ID: 42    | Name: Chad
+ID: 173   | Name: Switzerland
+ID: 97    | Name: Puerto Rico
+ID: 23    | Name: Ireland
+ID: 29    | Name: Serbia
+ID: 34    | Name: Estonia
+ID: 145   | Name: Bahrain
+ID: 63    | Name: Czech Republic
+ID: 160   | Name: Guadeloupe
+ID: 174   | Name: Norway
+ID: 86    | Name: Italy
+ID: 32    | Name: Romania
+ID: 77    | Name: Cyprus
+ID: 165   | Name: Luxembourg
+ID: 142   | Name: Suriname
+ID: 94    | Name: Guatemala
+ID: 17    | Name: Madagascar
+ID: 6     | Name: Indonesia
+ID: 46    | Name: Sweden
+ID: 169   | Name: Antigua and Barbuda
+ID: 168   | Name: Djibouti
+ID: 163   | Name: Finland
+ID: 162   | Name: French Guiana
+ID: 164   | Name: Saint Lucia
+ID: 171   | Name: Montenegro
+ID: 36    | Name: Canada
+ID: 113   | Name: Cuba
+ID: 129   | Name: Greece
+ID: 151   | Name: Chile
+ID: 128   | Name: Georgia
+ID: 115   | Name: Sierra Leone
+ID: 122   | Name: Bahamas
+ID: 92    | Name: Bolivia
+ID: 127   | Name: Grenada
+ID: 49    | Name: Latvia
+ID: 143   | Name: Tajikistan
+ID: 121   | Name: Brunei Darussalam
+ID: 170   | Name: Cayman islands
+ID: 166   | Name: Saint Vincent
+ID: 155   | Name: Albania
+ID: 59    | Name: Slovenia
+ID: 14    | Name: Hong Kong
+ID: 134   | Name: Saint Kitts and Nevis
+ID: 55    | Name: Taiwan
+ID: 44    | Name: Lithuania
+ID: 125   | Name: Central African Republic
+ID: 135   | Name: Liberia
+ID: 1001  | Name: Japan
+ID: 68    | Name: Guinea
+ID: 179   | Name: Aruba
+ID: 133   | Name: Comoros
+ID: 199   | Name: Malta
+ID: 196   | Name: Singapore
+ID: 141   | Name: Slovakia
+ID: 181   | Name: Anguilla
+ID: 178   | Name: Sao Tome and Principe
+ID: 189   | Name: Fiji
+ID: 188   | Name: Palestine
+ID: 45    | Name: Croatia
+ID: 186   | Name: Cape Verde
+ID: 144   | Name: Monaco
+ID: 183   | Name: Macedonia
+ID: 124   | Name: Belize
+ID: 185   | Name: New Caledonia
+ID: 67    | Name: New Zealand
+ID: 72    | Name: Mongolia
+ID: 153   | Name: Lebanon
+ID: 172   | Name: Denmark
+ID: 50    | Name: Austria
+ID: 184   | Name: Seychelles
+ID: 175   | Name: Australia
+ID: 180   | Name: Montserrat
+ID: 126   | Name: Dominica
+ID: 1002  | Name: Korea
+ID: 20    | Name: Macau
+ID: 132   | Name: Iceland
+ID: 176   | Name: Eritrea
+ID: 1003  | Name: Bermuda
+ID: 1004  | Name: Kosovo
+ID: 1005  | Name: Liechtenstein
+ID: 1006  | Name: Sint Maarten
+ID: 1007  | Name: Vanuatu
+ID: 1008  | Name: Greenland
+ID: 12    | Name: United States (virtual)
+ID: 201   | Name: Gibraltar
+ID: 204   | Name: Niue
