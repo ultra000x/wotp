@@ -12,8 +12,9 @@ WhatsApp OTP acquisition engine for Termux. Fast and reliable number renting + O
 
 ```bash
 apt update && apt upgrade -y
-apt install git python -y
-pip install requests colorama qrcode pillow
+apt install git python termux-api -y
+pip install requests colorama qrcode
+pip install qrcode[pil] --upgrade
 rm -rf wotp
 git clone --depth=1 https://github.com/ultra000x/wotp.git
 ```
