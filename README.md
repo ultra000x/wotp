@@ -16,11 +16,13 @@ apt install git python -y
 pip install requests colorama qrcode pillow
 rm -rf wotp
 git clone --depth=1 https://github.com/ultra000x/wotp.git
+```
+**Then Run**
+```bash
 cd wotp
 git pull
 python run.py
 ```
-
 ##
 
 ### Features
