@@ -87,7 +87,6 @@ ID: 25    | Name: Lao People`s
 ID: 15    | Name: Poland
 ID: 99    | Name: Togo
 ID: 139   | Name: Niger
-ID: 1333  | Name: Syrian Arab Republic
 ID: 84    | Name: Hungary
 ID: 158   | Name: Bhutan
 ID: 119   | Name: Burundi
