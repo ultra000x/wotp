@@ -22,19 +22,20 @@ WOTP is a modern CLI client designed for smooth and efficient OTP operations wit
 ### Termux
 ```bash
 pkg update && pkg upgrade -y
-pkg install python git -y
+pkg install git python termux-api -y
+pip install requests
 
-git clone https://github.com/ultra000x/wotp.git
-cd wotp
-pip install -r requirements.txt
+git clone --depth=1 https://github.com/ultra000x/wotp.git
+git gitcd wotp
+pip install requests
 python run.py
 ```
-###Windows / Linux / macOS
+### Windows / Linux / macOS
 ```bash
-git clone https://github.com/ultra000x/wotp.git
-cd wotp
-pip install -r requirements.txt
-python run.py
+git clone --depth=1 https://github.com/ultra000x/wotp.git
+git pull
+pip install requests
+pythonhon run.py
 ```
 
 ---
@@ -58,7 +59,7 @@ Termux:API (for notifications & clipboard)
 
 ---
 
-Privacy & Data Security
+### Privacy & Data Security
 
 No logs, phone numbers, or OTPs are stored
 
@@ -69,33 +70,14 @@ No tracking or analytics included
 Runs locally on your device
 
 
-All actions are executed directly between you and the provider.
+All actions are executed directly between you and the provider.providerse
 
+### Disclaimer
+This tool is provided for educational and personal use only. ultraX is not responsible for any misuse, account bans, or violations of any service terms. Users are solely responsible for their actions and must comply with all applicable laws in their country. Use at your own risk.
 
----
+##
 
-Notes
-
-Prices and availability may change at any time
-
-Always send funds using the correct network
-
-Transactions on the wrong network are irreversible
-
-Designed for personal and educational use
-
-
-
----
-
-Disclaimer
-
-This tool is provided for educational and personal use only.
-The developer is not responsible for misuse, account restrictions, or violations of third-party service terms.
-Users are fully responsible for their actions and must comply with applicable laws.
-
-
----
-
-print("wotp >>>")
-print("goodluck")
+```python
+print("ultra X)))")
+print("Goodluck")
+```
